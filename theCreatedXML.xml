@@ -1,0 +1,14 @@
+<Library>
+<songs>
+	<song id="4">n		<title>holier than thou</title>
+		<artist id="45">Metallica</artist>
+		<album id="46">black album</album> </song>
+	<song id="2">n		<title>the unforgiven</title>
+		<artist id="37">Metallica</artist>
+		<album id="38">black album</album> </song>
+</songs>
+<artists>
+</artists>
+<albums>
+</albums>
+</Library>
